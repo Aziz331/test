@@ -3,8 +3,8 @@ const client = new Discord.Client();
 console.log("Scrpit By Dream");
 
 
-var ServerID = "513291439095152643";// اي دي السيرفر
-var ChannelID = "513291621018632192"; // اي دي الروم التبي يعمل فيها سبام
+var ServerID = "513380123853062144";// اي دي السيرفر
+var ChannelID = "513380123853062146"; // اي دي الروم التبي يعمل فيها سبام
 const prefix = '!';
 
 client.on('warn', console.warn);
